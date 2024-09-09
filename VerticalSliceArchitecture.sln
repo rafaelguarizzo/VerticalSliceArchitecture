@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49CD2983-B4C9-44C1-94BF-F77024DA4365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalSliceProduto.Api", "src\VerticalSliceProduto.Api\VerticalSliceProduto.Api.csproj", "{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30} = {49CD2983-B4C9-44C1-94BF-F77024DA4365}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B463702-A2BD-4E1E-9ABE-E2F6F220BF30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

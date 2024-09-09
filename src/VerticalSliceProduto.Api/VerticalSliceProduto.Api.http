@@ -1,0 +1,6 @@
+@VerticalSliceProduto.Api_HostAddress = http://localhost:5231
+
+GET {{VerticalSliceProduto.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
